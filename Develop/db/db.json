@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "First note",
+        "text": "first message",
+        "id": "dacf6afe-f5d9-4326-a447-e75158dd85fa"
+    },
+    {
+        "title": "Second note",
+        "text": "second message",
+        "id": "0bbfe25d-eae1-44aa-80ef-3ba87b7de2c3"
+    }
+]
